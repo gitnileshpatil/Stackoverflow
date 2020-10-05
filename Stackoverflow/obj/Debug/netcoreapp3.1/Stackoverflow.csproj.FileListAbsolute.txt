@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Stackoverflow\Stackoverflow\obj\Debug\netcoreapp3.1\Stackoverflow.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Stackoverflow\Stackoverflow\obj\Debug\netcoreapp3.1\Stackoverflow.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Stackoverflow\Stackoverflow\obj\Debug\netcoreapp3.1\Stackoverflow.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Stackoverflow\Stackoverflow\obj\Debug\netcoreapp3.1\Stackoverflow.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Stackoverflow\Stackoverflow\bin\Debug\netcoreapp3.1\Stackoverflow.exe
+C:\Users\lenovo\source\repos\Stackoverflow\Stackoverflow\bin\Debug\netcoreapp3.1\Stackoverflow.deps.json
+C:\Users\lenovo\source\repos\Stackoverflow\Stackoverflow\bin\Debug\netcoreapp3.1\Stackoverflow.runtimeconfig.json
+C:\Users\lenovo\source\repos\Stackoverflow\Stackoverflow\bin\Debug\netcoreapp3.1\Stackoverflow.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Stackoverflow\Stackoverflow\bin\Debug\netcoreapp3.1\Stackoverflow.dll
+C:\Users\lenovo\source\repos\Stackoverflow\Stackoverflow\bin\Debug\netcoreapp3.1\Stackoverflow.pdb
+C:\Users\lenovo\source\repos\Stackoverflow\Stackoverflow\obj\Debug\netcoreapp3.1\Stackoverflow.dll
+C:\Users\lenovo\source\repos\Stackoverflow\Stackoverflow\obj\Debug\netcoreapp3.1\Stackoverflow.pdb
+C:\Users\lenovo\source\repos\Stackoverflow\Stackoverflow\obj\Debug\netcoreapp3.1\Stackoverflow.genruntimeconfig.cache
